@@ -32,6 +32,12 @@ Projects about schools, education, demographics and social issues.
 
 Interaktive Karte aller 185 Berliner Schulen mit Abitur-Durchschnittsnoten und Durchfallquoten. Analyse nach Schulform (Gymnasium, ISS, Privatschulen) zeigt deutliche soziale Unterschiede: Schulen in Brennpunktvierteln schneiden schlechter ab. Inklusive Leistungskurs-Vergleich und Entwicklung gegenüber 2024. Daten: Senatsverwaltung für Bildung / ISQ.
 
+### 🚌 [M29 - Berlins Buslinie der großen Unterschiede](https://interaktiv.morgenpost.de/m29/)
+
+**Januar 2015 · Berliner Morgenpost**
+
+Interaktive Datenvisualisierung entlang der Buslinie M29 von Grunewald nach Neukölln. Zeigt für alle 45 Haltestellen soziale Gegensätze: Wahlverhalten (CDU vs. Linke), Migrationshintergrund, Altersstruktur, Arbeitslosigkeit, Sozialindex, Mietsteigerungen, Einkommen, Einbruchsraten und Airbnb-Dichte. Daten: Landeswahlleiterin Berlin, Amt für Statistik, Kriminalitätsatlas, GSW Wohnmarkt-Report.
+
 ## Umwelt & Klima
 
 Projects about environment, climate, green spaces and air quality.
