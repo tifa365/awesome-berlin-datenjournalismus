@@ -42,6 +42,12 @@ Interaktive Datenvisualisierung entlang der Buslinie M29 von Grunewald nach Neuk
 
 Projects about environment, climate, green spaces and air quality.
 
+### 🏊 [Wo Berlins private Pools stehen – und was das über die Stadt verrät](https://interaktiv.tagesspiegel.de/lab/wo-berlins-private-pools-stehen-und-was-das-uber-die-stadt-verraet-luftbilder-hitze-wasser-ungleichheit-datenanalyse/)
+
+**August 2025 · Der Tagesspiegel**
+
+Erste KI-gestützte Analyse aller ~23.000 Privatpools in Berlin anhand von Luftbildern. Zeigt: Pools stehen vor allem am Stadtrand, wo Platz ist – nicht wo Reichtum ist. Korrelation mit Hitzebelastung: Gerade in heißen Innenstadtkiezen fehlen Abkühlungsmöglichkeiten. Inklusive Wasserverbrauchsanalyse. Kooperation mit FH Potsdam, Vertical52, NDR. Gefördert vom WPK Innovationsfonds.
+
 ## Politik & Demokratie
 
 Projects about local politics, elections, demonstrations and civic participation.
@@ -59,6 +65,10 @@ Interaktive 3D-Scroll-Story erklärt die Baufiaskos des Flughafens BER: vom "Mon
 ## Kriminalität & Sicherheit
 
 Projects about crime statistics, safety and security in Berlin.
+
+## Related Lists
+
+- [Awesome Datenjournalismus](https://github.com/tifa365/awesome-datenjournalismus) – Kuratierte Sammlung von Datenjournalismus-Projekten aus ganz Deutschland
 
 ## Contributing
 
