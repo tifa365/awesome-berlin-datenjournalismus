@@ -74,6 +74,7 @@ Projects about crime statistics, safety and security in Berlin.
 
 ## Related Lists
 
+- [Awesome Berlin Data](https://github.com/tifa365/awesome-berlin-data) – Community list of open data sources, APIs, tools, applications, and resources for Berlin
 - [Awesome Datenjournalismus](https://github.com/tifa365/awesome-datenjournalismus) – Kuratierte Sammlung von Datenjournalismus-Projekten aus ganz Deutschland
 
 ## Contributing
