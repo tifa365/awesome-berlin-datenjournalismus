@@ -38,6 +38,12 @@ Interaktive Karte aller 185 Berliner Schulen mit Abitur-Durchschnittsnoten und D
 
 Interaktive Datenvisualisierung entlang der Buslinie M29 von Grunewald nach Neukölln. Zeigt für alle 45 Haltestellen soziale Gegensätze: Wahlverhalten (CDU vs. Linke), Migrationshintergrund, Altersstruktur, Arbeitslosigkeit, Sozialindex, Mietsteigerungen, Einkommen, Einbruchsraten und Airbnb-Dichte. Daten: Landeswahlleiterin Berlin, Amt für Statistik, Kriminalitätsatlas, GSW Wohnmarkt-Report.
 
+### 👶 [Babys in Berlin - Babyboom in Berlin: Friedrichshain wird der neue Prenzlauer Berg](https://interaktiv.morgenpost.de/babys-in-berlin/)
+
+**2017 · Berliner Morgenpost**
+
+Interaktive Karte zeigt Baby-Dichte nach Kiez und demografische Entwicklung von 1991 bis 2016. Analyse des Berliner Babybooms: Anteil der Babys pro 1000 Einwohner stieg seit 2007 von 8,6 auf 9,6. Prenzlauer Berg (12,7 Babys/1000 EW) verliert Spitzenposition an Friedrichshain (12,5). Auswahl nach Altbezirken möglich. Daten: Amt für Statistik Berlin-Brandenburg.
+
 ## Umwelt & Klima
 
 Projects about environment, climate, green spaces and air quality.
